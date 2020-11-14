@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  min-height: 100vh;
+  margin: 0;
+  direction: ltr;
+  background: #e5e5e5;
+}
+.app{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+section{
+box-shadow: 0 0 5px #ccc;
+padding: 15px 10px;
+}
